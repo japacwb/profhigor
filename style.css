@@ -6,16 +6,16 @@
 }
 
 header {
-    background-color: #374bbe;
+    background-color: #ff0000;
     color: rgb(219, 13, 13);
     }
 
 .imagem {
-    width: 10%;
+    width: 20%;
  }
 
 .cabecalho {
-    background-color: #383d58;
+    background-color: #000000;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
